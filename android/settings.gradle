@@ -1,0 +1,5 @@
+rootProject.name = 'VetixyAsso'
+include ':react-native-color-matrix-image-filters'
+project(':react-native-color-matrix-image-filters').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-color-matrix-image-filters/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'

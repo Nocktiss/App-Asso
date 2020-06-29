@@ -1,0 +1,20 @@
+{
+  "welcomeSlider": {
+    "follow": {
+      "title": "follow",
+      "description": "Vetixy take care of your pet for all his life thanks to its own health book, digital prescriptions, statistics and calendar."
+    },
+    "warn": {
+      "title": "warn",
+      "description": "With real-time notifications, you will be alerted of local epidemics."
+    },
+    "feelSafe": {
+      "title": "feel safe",
+      "description": "All your data are confidential and secure. You will have access to the nearest emergencies."
+    },
+    "terminate": {
+      "title": "",
+      "description": "Good animal health results from good monitoring and good medical prevention. By subscribing to Vetixy, you decide to put all the chances on the side of your pet to see him in good health throughout his life. Congratulations!"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "tell_me_more": "En savoir plus",
+  "add": "Ajouter",
+  "all": "Tous",
+  "animal": {
+    "adopt": "À adopter",
+    "age": {
+      "label": "Âge",
+      "years{{nb}}": "{{nb}} ans"
+    },
+    "list_animals_adopt": "Liste des animaux à l'adoption",
+    "birthday": "Naissance",
+    "email": "Email",
+    "gender": "Genre",
+    "identificationNumber": "N° puce (I-CAD) / Tatouage",
+    "is_born": "Née le",
+    "list": "Mes animaux",
+    "list_animal": "Détails",
+    "list_animal_association": "Liste des animaux",
+    "my_pictures": "Mes photos",
+    "my_record": "Ma fiche",
+    "no_animals_available": "Aucun animal disponible",
+    "password": "Mot de passe",
+    "preferences": "Préférences",
+    "races": "Races",
+    "search": "Rechercher un animal",
+    "size": "Taille",
+    "statistics": "Statistiques",
+    "sterilization": "Stérilisation",
+    "sterilizationDate": "Date",
+    "type": {
+      "cat": "chat",
+      "dog": "chien"
+    },
+    "types": "Type d'animal",
+    "weight": "Poids"
+  },
+  "association": {
+    "title_details": "Détails sur l'association",
+    "kind_animals": "Animaux pris en charge"
+  },
+  "contact": {
+    "call": "Appeler",
+    "primary": "Contact principal",
+    "directions": "Itinéraire",
+    "email": "Email"
+  },
+  "delete": "Supprimer",
+  "na": "N/C",
+  "no": "non",
+  "none": "Aucun",
+  "none_female": "Aucune",
+  "none_male": "Aucun",
+  "see": "Voir",
+  "search": {
+    "title": "Rechercher"
+  },
+  "see_more": "Voir plus",
+  "yes": "oui",
+  "route": {
+    "map": "Carte",
+    "animal": "Animal",
+    "favorites": "Favoris"
+  }
+}
